@@ -12,10 +12,10 @@ My name is Higor Petri, i'm developer Front-end and so cheerful for work in this
 <br>
 🔮 My SocialNetwork:
 <p>
+ <a href="https://www.instagram.com/furtadohp/">
 <img align="left" alt="icone do instagram" width=50px src="https://cdn-icons-png.flaticon.com/512/1936/1936319.png">
-<a href="https://www.instagram.com/furtadohp/">
-<img align="left" alt="icone do twitter" width=43px src="https://cdn-icons-png.flaticon.com/512/733/733635.png">
 <a href="https://twitter.com/furtado_hp">
+<img align="left" alt="icone do twitter" width=43px src="https://cdn-icons-png.flaticon.com/512/733/733635.png">
 </a>
 </p>
 
